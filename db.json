@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productname": "oneplus",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 40000,
+      "date": "2022-03-08T18:30:00.000Z",
+      "comment": "good",
+      "id": 6
+    },
+    {
+      "productname": "madhu",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 4555,
+      "date": "2022-03-15T18:30:00.000Z",
+      "comment": "cd kjcjdschs ckshcbscb fhd",
+      "id": 7
+    },
+    {
+      "productname": "madhu",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 45677,
+      "date": "2022-03-16T18:30:00.000Z",
+      "comment": "bad mobile",
+      "id": 8
+    },
+    {
+      "productname": "Ganesh",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 123333,
+      "date": "2022-03-08T18:30:00.000Z",
+      "comment": "56788",
+      "id": 9
+    },
+    {
+      "productname": "saiudu",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 299,
+      "date": "2022-03-02T18:30:00.000Z",
+      "comment": "dfAU",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
